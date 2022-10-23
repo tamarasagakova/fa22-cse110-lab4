@@ -15,4 +15,4 @@
 8. **What was the Content-Type of the file?**
     - application/json; charset=utf-8
 9.  **Which function inside the initiating file made the request?**
-    - fetchData()
+    - fetchData() 
