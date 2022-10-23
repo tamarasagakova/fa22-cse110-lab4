@@ -64,7 +64,7 @@
 14. **Comparison**
     
     **A. ‘2’ > 1**
-    - `True`. `'2'` is converted to an integer and `2 > 1`.
+    - `True`. `'2'` is converted to an integer and `2 > 1`. 
 
     **B. ‘2’ < ‘12’**
     - `False`. Since they are compared as strings using lexicographical order and sorts numbers alphabetically, `'2' > '12'`.
