@@ -41,7 +41,7 @@
     **A. ‘3’ + 2**
     - `'32'` (string). Here the plus sign is used to combine two strings and it automatically coverts `2` to a string.  
 
-    **B. ‘3’ - 2**
+     **B. ‘3’ - 2**
     - `1` (integer). Minus sign is a `math operator` and it converts `'3'` to an integer.
     
     **C. 3 + null**
